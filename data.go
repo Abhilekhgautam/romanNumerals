@@ -1,6 +1,6 @@
 // data.go
 
-package romandNumerals
+package romanNumerals
 
 var Numerals = map[int]string{
   10: "X",
